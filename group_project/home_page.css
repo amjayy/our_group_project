@@ -1,12 +1,15 @@
- <html>
-<head>
-<style>
-div.background {
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+
+}
+
+/*div.background {
     background: url(home_page.jpg) repeat;
     border: 2px solid black;
 }
 
-div.transbox {
+/*div.transbox {
     margin: 30px;
     background-color: #ffffff;
     border: 1px solid black;
@@ -14,20 +17,8 @@ div.transbox {
     filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
-div.transbox p {
+/*div.transbox p {
     margin: 5%;
     font-weight: bold;
     color: #000000;
-}
-</style>
-</head>
-<body>
-
-<div class="home_page">
-  <div class="transbox">
-    <p>This is some text that is placed in the transparent box.</p>
-  </div>
-</div>
-
-</body>
-</html> 
+}*/
